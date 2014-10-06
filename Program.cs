@@ -52,7 +52,7 @@ namespace ReadMarkdownParser
                             string.Format("---\nlayout: post\ntitle: {0}\nsubtitle: {1}\ndate: {2}\n---\n",
                             read.Title,
                             read.Author,
-                            read.Finished.ToString("yyyy-mm-dd hh:MM"));
+                            read.Finished.ToString("yyyy-MM-dd"));
 
                         File.WriteAllText(Path.Combine(postDir, filePath), fileContents);
                     }
