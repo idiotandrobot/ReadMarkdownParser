@@ -38,10 +38,8 @@ namespace ReadMarkdownParser
                             + match.Groups["Day"].Captures[i].Value);
 
                         string filePath = 
-                            string.Format("{0}-{1}-{2}-{3}.md",
-                            read.Finished.Year,
-                            read.Finished.Month,
-                            read.Finished.Day,
+                            string.Format("{0}-{1}.md",
+                            read.Finished.ToString("yyyy-MM-dd"),
                             read.Title
                                 .Replace(" - ", "-")
                                 .Replace(":", "")
