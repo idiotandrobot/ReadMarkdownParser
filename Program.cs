@@ -16,7 +16,7 @@ namespace ReadMarkdownParser
             try
             {
 
-                string postDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Posts");
+                string postDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "_posts");
                 if (Directory.Exists(postDir))
                     Directory.Delete(postDir, true);
                 Directory.CreateDirectory(postDir);
