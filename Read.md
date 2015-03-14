@@ -1,5 +1,17 @@
-﻿**2014**
+﻿**2015**
 
+- **5-Feb** The First Fifteen Lives of Harry August by Claire North
+- **2-Feb** The Martian by Andy Weir
+- **25-Jan** Station Eleven by Emily St. John Mandel
+- **17-Jan** The Departure by Neal Asher
+- **7-Jan** A Slip of the Keyboard: Collected Non-fiction by Terry Pratchett
+
+**2014**
+
+- **16-Dec** Manifold: Time by Stephen Baxter
+- **2-Nov** The Girl With All The Gifts by M. R. Carey
+- **23-Oct** Ancillary Sword by Ann Leckie
+- **19-Oct** The Science of Discworld IV by Terry Pratchett et al
 - **28-Sep** Railsea by China Miéville
 - **14-Sep** The Epic Struggle of the Internet of Things by Bruce Sterling
 - **29-Aug** Broken Monsters by Lauren Beukes
@@ -55,4 +67,4 @@
 - **31-May** Surface Detail by Iain M. Banks
 - **27-May** Game of Cages by Harry Connolly
 - **14-May** Zoo City by Lauren Beukes
-- **17-Apr** End Of The World Blues by Jon Courtenay Grimwood
+- **17-Apr** End Of The World Blues by Jon Courtenay Grimwood 
